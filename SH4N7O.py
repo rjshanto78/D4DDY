@@ -62,7 +62,7 @@ for agent in range(10000):
         ugen.append(fullagnt)
         
 for agent in range(10000):
-        aa=''Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X)'
+        aa=''Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X)'
         b=random.choice(['6','7','8','9','10','11','12'])
         c='CPU iPhone OS 14_4 like Mac OS X'
         d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
